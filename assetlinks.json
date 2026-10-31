@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sectorchat.app",
+      "sha256_cert_fingerprints": [
+        "0D:39:66:FC:B2:3E:51:9E:70:FF:76:EA:72:9A:5C:BA:BF:25:07:55:18:DB:5A:FA:37:CC:EF:8D:1C:38:70:6A",
+        "DB:86:85:69:4D:16:F5:2E:21:D8:76:18:8C:33:CE:7C:71:60:A8:14:A8:DC:F3:09:F5:3E:E3:67:28:17:81:1D"
+      ]
+    }
+  }
+]

@@ -1,0 +1,7 @@
+# Android App Links (Digital Asset Links).
+# Berkas aslinya ada di /assetlinks.json agar tetap terunggah pada deployment yang
+# mengabaikan folder berawalan titik.
+/.well-known/assetlinks.json /assetlinks.json 200
+
+# Pastikan /verify dilayani sebagai halaman fallback (clean URL).
+/verify /verify.html 200
