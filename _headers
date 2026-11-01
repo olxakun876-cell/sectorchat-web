@@ -13,3 +13,5 @@
 
 /download/*
   Cache-Control: public, max-age=3600
+  Content-Disposition: attachment
+  Content-Type: application/vnd.android.package-archive
